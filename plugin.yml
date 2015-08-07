@@ -1,0 +1,16 @@
+name: ItemID
+main: MariusB\ItemID\main
+version: 1.0.0
+api: 1.5.0
+
+commands:
+    item:
+        description: "Identifies item in hand"
+
+permissions:
+    item.command:
+        description: "Players with this permission are able to run /item command"
+        default: true
+    item.info:
+        description: "Get ItemID in Hotbar"
+        default: OP
