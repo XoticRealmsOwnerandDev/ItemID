@@ -3,4 +3,4 @@ Shows item ID on tap in hotbar and lets you ask for item id on handheld items wi
 
 Will do some small updates later.
 
-Special thanks for helping out to Primus @ https://forums.pocketmine.net/members/primus.25050/ 
+Special thanks for helping out to PrimusLV
