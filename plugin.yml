@@ -1,5 +1,6 @@
 name: ItemID
-main: MariusB\ItemID\main
+authors: ['MariusB', 'Primus']
+main: MariusB\ItemID\Main
 version: 1.0.0
 api: 1.5.0
 
